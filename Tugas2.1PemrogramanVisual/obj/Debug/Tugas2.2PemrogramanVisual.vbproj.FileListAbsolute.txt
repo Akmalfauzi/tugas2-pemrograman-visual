@@ -1,0 +1,17 @@
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.exe.config
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.exe
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.pdb
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.xml
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2._1PemrogramanVisual.FormDataPelanggan.resources
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2._1PemrogramanVisual.FormLogin.resources
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2._1PemrogramanVisual.FormMenuUtama.resources
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2._1PemrogramanVisual.Resources.resources
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.2PemrogramanVisual.vbproj.GenerateResource.Cache
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.1PemrogramanVisual.exe
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.1PemrogramanVisual.xml
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.1PemrogramanVisual.pdb
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.2PemrogramanVisual.vbprojResolveAssemblyReference.cache
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.exe.manifest
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\bin\Debug\Tugas2.1PemrogramanVisual.application
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.1PemrogramanVisual.exe.manifest
+C:\Users\Akmal\Documents\Visual Studio 2013\Projects\Tugas2.2PemrogramanVisual\Tugas2.1PemrogramanVisual\obj\Debug\Tugas2.1PemrogramanVisual.application
